@@ -117,11 +117,12 @@ HR_Attrition_Analysis/
 This HR Attrition Analysis dashboard enables HR teams and leadership to monitor attrition trends, identify risk areas, and make informed retention decisions.
 The project demonstrates strong skills in Power BI, business analysis, and data storytelling.
 
-# 📌 Author
-
-Sudhakar
-Data Analyst
 
 # Screenshot
 
 <img width="531" height="302" alt="HR Dashboard" src="https://github.com/user-attachments/assets/317be3aa-008c-4172-8de1-bc20a0518cf8" />
+
+# 📌 Author
+
+Sudhakar M
+📧sudhakar.mvrs@gmail.com| 🌐 (https://www.linkedin.com/in/sudhakar-m-657ba787/)
